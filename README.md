@@ -3,7 +3,7 @@
 A collection of FP papers I am happy to discuss with you.
 
 - Pickler combinators, by Andrew Kennedy : a principled method to serialize 
-- Embedded interpreters, by Nick Benton : 
+- Embedded interpreters, by Nick Benton : how to open-up your program to users by making a script language ! 
 - Functional unparsing by Olivier Danvy : how to print structured data generically in a typed language ?
 - Functional unparsing with classes, by Ralf Hinze : leveraging typeclasses to do functional unparsing 
 - Outline of a proof theory of parametricity : 
